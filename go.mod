@@ -1,4 +1,4 @@
-module github.com/fjammes/midi2osc
+module github.com/AudioLibreLab/midi2osc
 
 go 1.23.4
 

@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/fjammes/midi2osc/resources"
+	"github.com/AudioLibreLab/midi2osc/resources"
 	"github.com/hypebeast/go-osc/osc"
 	"github.com/xthexder/go-jack"
 	"gopkg.in/yaml.v3"
